@@ -1,4 +1,4 @@
-# HARDWARE
+# Auto Obstacle-detecting Audio Navigation Car
 ## Content
 The respotory contains the Arduino code for the car.
 ## Inspiration
