@@ -1,5 +1,5 @@
 # HARDWARE
-##Content
+## Content
 The respotory contains the Arduino code for the car.
 ## Inspiration
 I saw people with visual impairments using crutch to detect possible hazards carefully and trying to avoid them on the road. Before every step, they need to use the crutch to detect around for a large radius. This time I had a chance to work with the robot car, after making it move, I was thinking maybe I can add more functions to make it help with more real life problems. Thus I tried to design this Auto Obstacle-detecting Audio Navigation Car. Hoping that the complete functionalized car can serve as a guiding role, help detecting the road hazards and warn user. 
